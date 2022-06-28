@@ -14,8 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhzkclq0705&layout=compact)](https://github.com/vhzkclq0705/github-readme-stats)
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=vhzkclq0705)](https://solved.ac/vhzkclq0705)
+
+![My github status](https://github-readme-stats.vercel.app/api?username=vhzkclq0705&show_icons=true&theme=radical)
 </div>
-
-
-
-<!--![My github status](https://github-readme-stats.vercel.app/api?username=vhzkclq0705&show_icons=true&theme=radical)-->
