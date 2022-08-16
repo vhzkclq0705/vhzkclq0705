@@ -14,7 +14,7 @@
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=vhzkclq0705&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhzkclq0705&layout=compact)](https://github.com/vhzkclq0705/github-readme-stats) <a href="https://opgc.me/#/users/vhzkclq0705" target="_blank"> <img src="https://api.opgc.me/githubs/users/vhzkclq0705/tag/?theme=basic" height="141"></a>
+
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=vhzkclq0705)](https://solved.ac/vhzkclq0705)
 
