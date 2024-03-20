@@ -10,10 +10,6 @@
   
 <img src="https://img.shields.io/badge/swift-F05138?style=plastic-square&logo=swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/python-3776AB?style=plastic-square&logo=python&logoColor=white"/></a>
 
-<br><br><br>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=vhzkclq0705&show_icons=true&theme=radical) 
-
 <!-- -->
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=vhzkclq0705)](https://solved.ac/vhzkclq0705)
